@@ -7,6 +7,7 @@ public class Hello {
 		
 		//주석 추가
 		String str = "git 배우고 있어요";
+		System.out.println(str);
 	}
 
 }
